@@ -27,6 +27,7 @@
 
 # Env
 .env
+storage/
 
 # OS generated files
 Thumbs.db 
